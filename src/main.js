@@ -1,7 +1,7 @@
 // src/main.js
 
+import VueFBLoginPlugin from './vue-facebook-login-plugin'
+
 export default {
-  toto () {
-    console.log('first commit');
-  }
+  plugin: VueFBLoginPlugin
 }

@@ -1,0 +1,1 @@
+{"version":3,"file":"vue-facbook-login.js","sources":["../src/main.js"],"sourcesContent":["// src/main.js\n\nexport default {\n  toto () {\n    console.log('first commit');\n  }\n}"],"names":["log"],"mappings":";;AAAA;;AAEA,WAAe;SACL;YACEA,GAAR,CAAY,cAAZ;;CAFJ;;;;"}
