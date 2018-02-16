@@ -1,0 +1,33 @@
+{
+  "name": "vue-facebook-login",
+  "version": "0.0.0",
+  "description": "A Vue.js plugin for the Facebook Connection",
+  "main": "dist/vue-facebook-login.min.js",
+  "scripts": {
+    "watch": "rollup --config 'build/rollup.config.js' --watch",
+    "build": "rollup --config 'build/rollup.config.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Romain Lienard",
+    "email": "rl@seize.tv",
+    "url": "https://github.com/romain-web"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "6.26.0",
+    "babel-eslint": "8.2.1",
+    "eslint": "4.17.0",
+    "eslint-config-standard": "11.0.0-beta.0",
+    "eslint-plugin-standard": "3.0.1",
+    "babel-plugin-external-helpers": "6.22.0",
+    "babel-preset-env": "1.6.1",
+    "eslint-plugin-import": "2.8.0",
+    "eslint-plugin-node": "6.0.0",
+    "eslint-plugin-promise": "3.6.0",
+    "rollup": "0.56.1",
+    "rollup-plugin-babel": "3.0.3",
+    "rollup-plugin-node-resolve": "3.0.3"
+  }
+}
